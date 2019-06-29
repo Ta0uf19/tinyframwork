@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^/?views/assets/.+$ - [L]   # ignorer tout qui passe
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]  #QSA pour conserver les params GET  #L = break
