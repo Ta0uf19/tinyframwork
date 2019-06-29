@@ -1,6 +1,6 @@
 <?php
 
-class Jeux extends Model
+class JeuxSample extends Model
 {
 
     private $table = "jeux";

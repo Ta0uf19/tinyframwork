@@ -6,7 +6,7 @@ class IndexController extends Controller
     public function index() {
 
 
-        $array = ["test" => 'test'];
+        $array = ["test" => 'test from controller'];
         $this->render("index", $array);
     }
 
