@@ -11,6 +11,6 @@ The mod_rewrite Apache module
 
 # Documentation
 
-TinyPHP is very similar in it's architecture to Laravel and will likely look very familiar to you if you already have experince with CodeIgniter. 
+TinyPHP is very similar in it's architecture to Laravel and will likely look very familiar to you if you already have experince with it. 
 However remember that TinyPHP is a tiny framework and does not include a lot of the functionality that comes with Laravel.
 
