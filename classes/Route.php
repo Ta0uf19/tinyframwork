@@ -1,7 +1,6 @@
 <?php
 
 /**
- * Taoufik Tribki
  * Class Route
  */
 class Route {
